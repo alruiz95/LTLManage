@@ -1,0 +1,13 @@
+.loginBox{
+	background: #EEEEEE;
+	border-radius: 10px;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+.jumbotron{
+	background-color: transparent;
+	margin-bottom: 0px;
+	min-height: 100%;
+}

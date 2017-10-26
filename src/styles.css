@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  	background:linear-gradient(0deg,rgba(105,105,105,0.7),rgba(105,105,105,0.7)),url('http://ligaticadeleyendas.com/wp-content/uploads/2016/03/environmentart-sru-04_1920.png');
+	background-size: 100%;
+    background-color: black;
+    min-height: 100%;
+}
